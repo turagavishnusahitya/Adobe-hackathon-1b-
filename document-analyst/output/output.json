@@ -1,0 +1,831 @@
+{
+  "metadata": {
+    "input_documents": [
+      "g1.pdf",
+      "g2.pdf",
+      "g3.pdf"
+    ],
+    "persona": "PhD Researcher in Computational Biology",
+    "job_to_be_done": "Prepare a literature review focusing on methodologies, datasets, and performance benchmarks",
+    "processing_timestamp": "2025-07-28 05:36:42",
+    "processing_time_sec": 0.03
+  },
+  "extracted_sections": [
+    {
+      "document": "g2.pdf",
+      "page": 22,
+      "section_title": "datasets combine molecular data with real-world patient electronic health record (EHR) data, hindering the",
+      "importance_rank": 0.0496
+    },
+    {
+      "document": "g1.pdf",
+      "page": 180,
+      "section_title": "methodologies in machine learning -based molecular docking under Prof. Tingjun Hou. After that, he",
+      "importance_rank": 0.0467
+    },
+    {
+      "document": "g3.pdf",
+      "page": 12,
+      "section_title": "Datasets Number of",
+      "importance_rank": 0.0298
+    },
+    {
+      "document": "g3.pdf",
+      "page": 12,
+      "section_title": "Datasets",
+      "importance_rank": 0.0298
+    },
+    {
+      "document": "g1.pdf",
+      "page": 165,
+      "section_title": "datasets and high -throughput experimentation (HTE) datasets, as summarized in Table 27 . General -",
+      "importance_rank": 0.0291
+    },
+    {
+      "document": "g1.pdf",
+      "page": 165,
+      "section_title": "dataset626 and its various curated subsets, as well as the more recent Open Reaction Database (ORD)627,",
+      "importance_rank": 0.0291
+    },
+    {
+      "document": "g3.pdf",
+      "page": 14,
+      "section_title": "RESULTS",
+      "importance_rank": 0.0253
+    },
+    {
+      "document": "g1.pdf",
+      "page": 86,
+      "section_title": "Dataset  Keywords",
+      "importance_rank": 0.0231
+    },
+    {
+      "document": "g2.pdf",
+      "page": 20,
+      "section_title": "Dataset [128], and ChChMiner [129].",
+      "importance_rank": 0.022
+    },
+    {
+      "document": "g2.pdf",
+      "page": 20,
+      "section_title": "dataset consists of 868,221 statistically significant association between 59,220 drug pairs and 1,301 adverse",
+      "importance_rank": 0.022
+    },
+    {
+      "document": "g2.pdf",
+      "page": 5,
+      "section_title": "Results",
+      "importance_rank": 0.0216
+    },
+    {
+      "document": "g2.pdf",
+      "page": 5,
+      "section_title": "Results Specific Fixed",
+      "importance_rank": 0.0216
+    },
+    {
+      "document": "g1.pdf",
+      "page": 166,
+      "section_title": "datasets provide high -quality, narrowly scoped reaction data, typically focused on specific transformations",
+      "importance_rank": 0.02
+    },
+    {
+      "document": "g1.pdf",
+      "page": 5,
+      "section_title": "methodological breakthrough in drug discovery, particularly those that reshape foundational paradigms,",
+      "importance_rank": 0.0198
+    },
+    {
+      "document": "g2.pdf",
+      "page": 8,
+      "section_title": "methods also incorporate advanced learning strategies, including self-supervised (pre-training) and few-shot",
+      "importance_rank": 0.0197
+    },
+    {
+      "document": "g1.pdf",
+      "page": 94,
+      "section_title": "datasets.",
+      "importance_rank": 0.0179
+    },
+    {
+      "document": "g3.pdf",
+      "page": 1,
+      "section_title": "INTRODUCTION",
+      "importance_rank": 0.0173
+    },
+    {
+      "document": "g3.pdf",
+      "page": 16,
+      "section_title": "dataset. Meanwhile, Tables 4 and 6 report the values of r2",
+      "importance_rank": 0.0166
+    },
+    {
+      "document": "g3.pdf",
+      "page": 16,
+      "section_title": "results suggest that model GEN of DeepNC performed better than SimBoost, DeepDTA",
+      "importance_rank": 0.0166
+    },
+    {
+      "document": "g1.pdf",
+      "page": 144,
+      "section_title": "datasets and research communities535.",
+      "importance_rank": 0.0165
+    },
+    {
+      "document": "g2.pdf",
+      "page": 3,
+      "section_title": "methods may only focus on the prediction of the existence of a particular type of interaction [36]. The",
+      "importance_rank": 0.0164
+    },
+    {
+      "document": "g2.pdf",
+      "page": 3,
+      "section_title": "methods that adapt GNNs as backbones to incorporate interactions as networks have achieved state-of-the-",
+      "importance_rank": 0.0164
+    },
+    {
+      "document": "g2.pdf",
+      "page": 11,
+      "section_title": "method also highlighted critical atomic and residue-level features. In contrast to the above, NERE [25]",
+      "importance_rank": 0.0156
+    },
+    {
+      "document": "g1.pdf",
+      "page": 178,
+      "section_title": "datasets are applied to real -world sources such as Reaxys. In such settings, performance degradation is",
+      "importance_rank": 0.0152
+    },
+    {
+      "document": "g1.pdf",
+      "page": 102,
+      "section_title": "datasets  contain multiple protein targets, experimentally validated active compounds, and carefully",
+      "importance_rank": 0.0146
+    },
+    {
+      "document": "g1.pdf",
+      "page": 115,
+      "section_title": "datasets such as QM9. A further complication in one -shot generation is the graph matching problem.",
+      "importance_rank": 0.0141
+    },
+    {
+      "document": "g3.pdf",
+      "page": 15,
+      "section_title": "datasets.",
+      "importance_rank": 0.013
+    },
+    {
+      "document": "g1.pdf",
+      "page": 64,
+      "section_title": "methods have shown superior performance in downstream tasks, benefiting from richer spatial encodings.",
+      "importance_rank": 0.013
+    },
+    {
+      "document": "g1.pdf",
+      "page": 59,
+      "section_title": "datasets. For an extensive compilation of ADMET -related endpoints, the ADMETlab platform197 serves as",
+      "importance_rank": 0.0127
+    },
+    {
+      "document": "g1.pdf",
+      "page": 110,
+      "section_title": "dataset. For instance, if the actives in the training data predominantly share similar scaffolds, the model",
+      "importance_rank": 0.0126
+    },
+    {
+      "document": "g2.pdf",
+      "page": 16,
+      "section_title": "datasets driving progress in computational drug discovery.",
+      "importance_rank": 0.0121
+    },
+    {
+      "document": "g3.pdf",
+      "page": 18,
+      "section_title": "results given by HGC-GCN are 0.172 and 0.872. Hence, we noticed that DeepNC has",
+      "importance_rank": 0.0121
+    },
+    {
+      "document": "g3.pdf",
+      "page": 18,
+      "section_title": "dataset. Here we consider Graph attention networks (GAT), Graph Isomorphism (GIN),",
+      "importance_rank": 0.0121
+    },
+    {
+      "document": "g1.pdf",
+      "page": 173,
+      "section_title": "Methods  Keywords",
+      "importance_rank": 0.011
+    },
+    {
+      "document": "g1.pdf",
+      "page": 72,
+      "section_title": "methods and demonstrated that pretrained models generally achieve both better accuracy and more",
+      "importance_rank": 0.0105
+    },
+    {
+      "document": "g1.pdf",
+      "page": 43,
+      "section_title": "methods are summarized in Table 6  and four popular probability learning architectures are illustreated in",
+      "importance_rank": 0.0098
+    },
+    {
+      "document": "g3.pdf",
+      "page": 2,
+      "section_title": "results of training an discussion. The article ends with the concluding remarks.",
+      "importance_rank": 0.0095
+    },
+    {
+      "document": "g1.pdf",
+      "page": 204,
+      "section_title": "Methods Mol. Biol. 2019 , 2022 , 201 -232.",
+      "importance_rank": 0.0067
+    },
+    {
+      "document": "g1.pdf",
+      "page": 204,
+      "section_title": "method based on atom/feature -pair similarities and volume overlap scoring. J. Chem. Inf. Model.",
+      "importance_rank": 0.0067
+    },
+    {
+      "document": "g1.pdf",
+      "page": 209,
+      "section_title": "methods in novel drug design. Expert Opin. Drug Discov. 2021 , 16 (6), 647 -658.",
+      "importance_rank": 0.0066
+    },
+    {
+      "document": "g3.pdf",
+      "page": 8,
+      "section_title": "results than various existing interaction prediction methods, such as a k-nearest neighbor,",
+      "importance_rank": 0.0056
+    },
+    {
+      "document": "g3.pdf",
+      "page": 7,
+      "section_title": "Related works",
+      "importance_rank": 0.0053
+    },
+    {
+      "document": "g3.pdf",
+      "page": 13,
+      "section_title": "dataset is also noted in Table 1.",
+      "importance_rank": 0.005
+    },
+    {
+      "document": "g1.pdf",
+      "page": 182,
+      "section_title": "Methods Mol. Biol. 2012 , 910, 87-124.",
+      "importance_rank": 0.0044
+    },
+    {
+      "document": "g1.pdf",
+      "page": 50,
+      "section_title": "Methodologically, RL -based approaches can be broadly classified into policy -based and value -based",
+      "importance_rank": 0.0044
+    },
+    {
+      "document": "g3.pdf",
+      "page": 19,
+      "section_title": "Method Model Drugs rep.",
+      "importance_rank": 0.0043
+    },
+    {
+      "document": "g3.pdf",
+      "page": 19,
+      "section_title": "CONCLUSION",
+      "importance_rank": 0.0043
+    },
+    {
+      "document": "g1.pdf",
+      "page": 51,
+      "section_title": "methods allows it to shift from general chemical plausibility toward task -specific optimization objectives",
+      "importance_rank": 0.0042
+    },
+    {
+      "document": "g1.pdf",
+      "page": 75,
+      "section_title": "methods: mask -based methods, which learn masks over molecular graphs to identify important substructures ; search -",
+      "importance_rank": 0.0042
+    },
+    {
+      "document": "g1.pdf",
+      "page": 75,
+      "section_title": "methods, the explanation module is jointly trained with the predictor, ensuring that explanation is an",
+      "importance_rank": 0.0042
+    },
+    {
+      "document": "g1.pdf",
+      "page": 35,
+      "section_title": "methods vary in computational complexity: some approaches operate with \ud835\udc42(\ud835\udc412) cost, such as those",
+      "importance_rank": 0.0042
+    },
+    {
+      "document": "g3.pdf",
+      "page": 9,
+      "section_title": "methods, for example: the study of Yamanishi et al. (2008) , and semi-supervised learning-",
+      "importance_rank": 0.0041
+    },
+    {
+      "document": "g1.pdf",
+      "page": 170,
+      "section_title": "methods appear template -free, they rely on atom -mapped reactions during dataset construction to identify",
+      "importance_rank": 0.0039
+    },
+    {
+      "document": "g2.pdf",
+      "page": 7,
+      "section_title": "Dataset",
+      "importance_rank": 0.0036
+    },
+    {
+      "document": "g2.pdf",
+      "page": 7,
+      "section_title": "Dataset",
+      "importance_rank": 0.0036
+    },
+    {
+      "document": "g1.pdf",
+      "page": 38,
+      "section_title": "methods encourage models to construct meaningful representations by reproducing the structural",
+      "importance_rank": 0.0
+    },
+    {
+      "document": "g1.pdf",
+      "page": 70,
+      "section_title": "Methods  Keywords  Uncertainty",
+      "importance_rank": 0.0
+    },
+    {
+      "document": "g1.pdf",
+      "page": 74,
+      "section_title": "methods, while not explicitly refer encing conformal prediction, have adopted its core ideas. For example,",
+      "importance_rank": 0.0
+    },
+    {
+      "document": "g1.pdf",
+      "page": 79,
+      "section_title": "methods reduce substructure search to learnable mask optimization. The following GraphMask291 argues",
+      "importance_rank": 0.0
+    },
+    {
+      "document": "g1.pdf",
+      "page": 81,
+      "section_title": "methods, where \ud835\udc53\ud835\udf03 and \ud835\udc54\ud835\udf19 are optimized jointly to ensure consistency between prediction and",
+      "importance_rank": 0.0
+    },
+    {
+      "document": "g1.pdf",
+      "page": 87,
+      "section_title": "Methods  Keywords",
+      "importance_rank": 0.0
+    },
+    {
+      "document": "g1.pdf",
+      "page": 112,
+      "section_title": "methods like Equiscore and ConBAP adopt different neative sampl ing strategies  to enhance the model\u2019s",
+      "importance_rank": 0.0
+    },
+    {
+      "document": "g1.pdf",
+      "page": 116,
+      "section_title": "methods sequentially add atoms and predict their connections to the existing graph, while fragment -wise",
+      "importance_rank": 0.0
+    },
+    {
+      "document": "g1.pdf",
+      "page": 116,
+      "section_title": "methods operate at a coarser granularity, adding predefined substructures at each step.",
+      "importance_rank": 0.0
+    },
+    {
+      "document": "g1.pdf",
+      "page": 117,
+      "section_title": "methods are more efficient , but often produce less chemically robust molecules.  Importantly, the",
+      "importance_rank": 0.0
+    },
+    {
+      "document": "g1.pdf",
+      "page": 118,
+      "section_title": "Methods  Model  Keywords",
+      "importance_rank": 0.0
+    },
+    {
+      "document": "g1.pdf",
+      "page": 121,
+      "section_title": "Methods  Model  Keywords",
+      "importance_rank": 0.0
+    },
+    {
+      "document": "g1.pdf",
+      "page": 122,
+      "section_title": "methods directly generate 3D coordinates, i.e., they learn \ud835\udc5d(\ud835\udc45\u2223\ud835\udc3a) under SE(3) -equivariant constraints.",
+      "importance_rank": 0.0
+    },
+    {
+      "document": "g1.pdf",
+      "page": 122,
+      "section_title": "methods utilizes equivariant neural architectures to ensure symmetry -preserving coordinate prediction.",
+      "importance_rank": 0.0
+    },
+    {
+      "document": "g2.pdf",
+      "page": 32,
+      "section_title": "Methods URLs",
+      "importance_rank": 0.0
+    },
+    {
+      "document": "g3.pdf",
+      "page": 20,
+      "section_title": "Method Model Drugs rep.",
+      "importance_rank": 0.0
+    },
+    {
+      "document": "g3.pdf",
+      "page": 20,
+      "section_title": "Method Model Drugs rep.",
+      "importance_rank": 0.0
+    },
+    {
+      "document": "g3.pdf",
+      "page": 20,
+      "section_title": "Method Model Drugs rep.",
+      "importance_rank": 0.0
+    },
+    {
+      "document": "g3.pdf",
+      "page": 21,
+      "section_title": "Method Model Drugs rep.",
+      "importance_rank": 0.0
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "g2.pdf",
+      "refined_text": "Finally, there are limitations on the scopes of data. Many benchmark datasets are static and not routinely\nupdated with new discoveries. Furthermore, due to privacy concern and regulatory and ethical constraints,\nindividual level, patient-centric data is not accessible to the broad research communit",
+      "page": 22
+    },
+    {
+      "document": "g1.pdf",
+      "refined_text": " \nBiographies  \nOdin Zhang  received his dual B.S. degrees in Physics and Pharmaceutics from Zhejiang University in \n2022, and M.S. degree in Pharmaceutics in 2024, where he worked with Prof. Tingjun Hou on computer -\naided drug design. He will pursue his Ph.D. in Computer Science at the University ",
+      "page": 180
+    },
+    {
+      "document": "g3.pdf",
+      "refined_text": "Figure 5 Diagram of a GENConv layer.\nFull-size\n DOI: 10.7717/peerj.13163/fig-5\nTable 1 Summary of studied datasets.\nDatasets Number of\ntargetsNumber of\ncompoundsNumber of\ninteraction\npairs\nDavis 442 68 30056\nKiba 229 2111 118254\nAllergy 35 286 372\nwhere MLP (\u0001) is a multi-layer perceptron and the ag",
+      "page": 12
+    },
+    {
+      "document": "g3.pdf",
+      "refined_text": "Figure 5 Diagram of a GENConv layer.\nFull-size\n DOI: 10.7717/peerj.13163/fig-5\nTable 1 Summary of studied datasets.\nDatasets Number of\ntargetsNumber of\ncompoundsNumber of\ninteraction\npairs\nDavis 442 68 30056\nKiba 229 2111 118254\nAllergy 35 286 372\nwhere MLP (\u0001) is a multi-layer perceptron and the ag",
+      "page": 12
+    },
+    {
+      "document": "g1.pdf",
+      "refined_text": "defined, reaction conditions and yields are frequently subject to experimental variability and reporting \nbias, posing additional challenges for accurate predictive modeling.  \n7.1.2 Chemical Reaction Databases  \nContemporary reaction databases can be broadly classified into two categories: general ",
+      "page": 165
+    },
+    {
+      "document": "g1.pdf",
+      "refined_text": "defined, reaction conditions and yields are frequently subject to experimental variability and reporting \nbias, posing additional challenges for accurate predictive modeling.  \n7.1.2 Chemical Reaction Databases  \nContemporary reaction databases can be broadly classified into two categories: general ",
+      "page": 165
+    },
+    {
+      "document": "g3.pdf",
+      "refined_text": "Table 2 Parameters setting for DeepNC models.\nParameters Settings\nLearning rate 0.0005\nBatch size 256\nEpoch 1000\nOptimizer Adam\nGraph convolutional layers in GEN 3\nGraph convolutional layers in HGC-GCN 3\nFigure 6 Performance of DeepNC and GraphDTA training models on the Davis dataset. (A) MSE Val-\nu",
+      "page": 14
+    },
+    {
+      "document": "g1.pdf",
+      "refined_text": "ligand -binding information is transferred to target proteins through structural alignment. However, these \napproaches are inherently constrained by the coverage and diversity of existing template libraries329. More \nrecently, language models applied directly to protein sequences have been explored ",
+      "page": 86
+    },
+    {
+      "document": "g2.pdf",
+      "refined_text": "PDBbind Dataset [126] was created to collect experimentally measured binding data from literature for\nthe biomolecular complexes with high-resolution 3D structures in the Protein Data Bank (PDB). It provides\nan essential linkage between the energetic and structural information of those complexes, wh",
+      "page": 20
+    },
+    {
+      "document": "g2.pdf",
+      "refined_text": "PDBbind Dataset [126] was created to collect experimentally measured binding data from literature for\nthe biomolecular complexes with high-resolution 3D structures in the Protein Data Bank (PDB). It provides\nan essential linkage between the energetic and structural information of those complexes, wh",
+      "page": 20
+    },
+    {
+      "document": "g2.pdf",
+      "refined_text": "Unconstrained Generation \nMolecule Inputs GNN Blocks Distribution of \nsubstructures or \natoms Sampling Generated \nResults \nConstrained Generation with Specific Substructures \nMolecule Inputs GNN Blocks Distribution of \nsubstructures or \natoms Sampling Generated \nResults Specific Fixed \nSubstructure ",
+      "page": 5
+    },
+    {
+      "document": "g2.pdf",
+      "refined_text": "Unconstrained Generation \nMolecule Inputs GNN Blocks Distribution of \nsubstructures or \natoms Sampling Generated \nResults \nConstrained Generation with Specific Substructures \nMolecule Inputs GNN Blocks Distribution of \nsubstructures or \natoms Sampling Generated \nResults Specific Fixed \nSubstructure ",
+      "page": 5
+    },
+    {
+      "document": "g1.pdf",
+      "refined_text": "USPTO -Full: Curated by Dai et al.632, it comprises ~1 million reactions. Entries with multiple \nproducts were split into separate reactions to better support model training and evaluation for \nretrosynthesis.  \nThe Reaxys Dataset: Reaxys635, maintained by Elsevier, is a commercial database that inc",
+      "page": 166
+    },
+    {
+      "document": "g1.pdf",
+      "refined_text": "1. Introduction  \n1.1 Graph is a Natural Representation in Drug Discovery  \nDrug discovery is a resource -intensive and time -consuming endeavor. It is estimated that bringing a new \ndrug to market requires over two billion US  dollars  in investment and typically spans more than  a decade \nof resea",
+      "page": 5
+    },
+    {
+      "document": "g2.pdf",
+      "refined_text": "4 Prediction of Molecular Properties and Interactions\nIn this section, we review various GNN-based approaches for predicting molecular properties and interac-\ntions. Different algorithms have been developed for different applications, each utilizing varying types of\ninputs. Common types of input dat",
+      "page": 8
+    },
+    {
+      "document": "g1.pdf",
+      "refined_text": "atomic coordinates. While this enhances  the model\u2019s flexibility, it also requires substantially more training \ndata and computational resources. Consequently, HelixDock is primarily designed for targeted pocket -\nspecific docking tasks and mitigates data scarcity by pretraining on conventional dock",
+      "page": 94
+    },
+    {
+      "document": "g3.pdf",
+      "refined_text": "Submitted 25 October 2021\nAccepted 3 March 2022\nPublished 11 May 2022\nCorresponding author\nJ. Joshua Thomas,\njjoshua@kdupg.edu.my\nAcademic editor\nYuriy Orlov\nAdditional Information and\nDeclarations can be found on\npage 20\nDOI 10.7717/peerj.13163\nCopyright\n2022 Tran et al.\nDistributed under\nCreative ",
+      "page": 1
+    },
+    {
+      "document": "g3.pdf",
+      "refined_text": "Figure 8 Performance of DeepNC and GraphDTA training models on the Allergy dataset. (A) MSE\nValues (B) CI Values.\nFull-size\n DOI: 10.7717/peerj.13163/fig-8\nEvaluation results\nExperimental results of DeepNC and the baseline methods are remarked in Tables 3\u00157. We\ncompare our models to SimBoost ( He et",
+      "page": 16
+    },
+    {
+      "document": "g3.pdf",
+      "refined_text": "Figure 8 Performance of DeepNC and GraphDTA training models on the Allergy dataset. (A) MSE\nValues (B) CI Values.\nFull-size\n DOI: 10.7717/peerj.13163/fig-8\nEvaluation results\nExperimental results of DeepNC and the baseline methods are remarked in Tables 3\u00157. We\ncompare our models to SimBoost ( He et",
+      "page": 16
+    },
+    {
+      "document": "g1.pdf",
+      "refined_text": "enables consistent classification, naming, and interpretation of such abstract entities across diverse \ndatasets and research communities535. \nOntologies define both the hierarchical structure  of concepts and the semantic relationships  \nbetween them. This allows knowledge graphs to capture biologi",
+      "page": 144
+    },
+    {
+      "document": "g2.pdf",
+      "refined_text": "predict molecular properties, have attracted substantial attention in cheminformatics and bioinformatics ( e.g.,\n[30]).\n1.3 Drug-Drug Interaction Prediction\nIn the treatment of complex diseases such as cancer and neurological disorders, combinational drug therapies\nhave shown promise in improving tr",
+      "page": 3
+    },
+    {
+      "document": "g2.pdf",
+      "refined_text": "predict molecular properties, have attracted substantial attention in cheminformatics and bioinformatics ( e.g.,\n[30]).\n1.3 Drug-Drug Interaction Prediction\nIn the treatment of complex diseases such as cancer and neurological disorders, combinational drug therapies\nhave shown promise in improving tr",
+      "page": 3
+    },
+    {
+      "document": "g2.pdf",
+      "refined_text": "et al. [24] proposed a fusion model that combined complementary molecular representations. Their method\nutilized a 3D CNN to capture local spatial features and a spatial GNN to encode global structural information,\nintegrating both in a fused architecture.\nThe IGN framework [80] modeled protein-liga",
+      "page": 11
+    },
+    {
+      "document": "g1.pdf",
+      "refined_text": "7.4 Perspectives of Chemical Synthesis  \n7.4.1 Conformations are Crucial  \nOverall, CASP remains a field with numerous open questions worthy of deeper exploration. One \nfundamental limitation is that current models almost only take 2D molecular graph as input, neglecting \nthe chemical reality that r",
+      "page": 178
+    },
+    {
+      "document": "g1.pdf",
+      "refined_text": "DEKOIS 2.0, DUD -E, and LIT -PCBA : DEKOIS 2.0334 and DUD -E335 are widely used external \nbenchmark datasets designed to evaluate the virtual screening performance of scoring functions. Both  \ndatasets  contain multiple protein targets, experimentally validated active compounds, and carefully \nconst",
+      "page": 102
+    },
+    {
+      "document": "g1.pdf",
+      "refined_text": "sizes, though it may suffer from memory inefficiencies and is generally applicable only to small -molecule \ndatasets such as QM9. A further complication in one -shot generation is the graph matching problem. \nBecause graph representations are permutation invariant, the same molecule may correspond t",
+      "page": 115
+    },
+    {
+      "document": "g3.pdf",
+      "refined_text": "Figure 7 Performance of DeepNC and GraphDTA training models on the Kiba dataset. (A) MSE Val-\nues (B) CI Values.\nFull-size\n DOI: 10.7717/peerj.13163/fig-7\noutperform non-GNN methods (SimBoost, DeepDTA) but is aiming at enhancing current\nGNN models (GraphDTA) as well.\nFigsures 6\u00158 display the values ",
+      "page": 15
+    },
+    {
+      "document": "g1.pdf",
+      "refined_text": "quantum properties233, as well as in QSAR and ADMET tasks234. Several pretraining strategies also \nincorporate geometric signals. For instance, noisy node masking134 involves denoising perturbed atomic \ncoordinates; GhemRL -GEN235 and GROVER130  trains models to predict bond lengths and angles. Thes",
+      "page": 64
+    },
+    {
+      "document": "g1.pdf",
+      "refined_text": "blood -brain barrier (BBB) permeability193, which is of particular importance for drugs targeting the \ncentral nervous system (CNS).  \nMetabolism (M): Many drugs undergo metabolic transformation to become pharmacologically \nactive or to be eliminated from the body. Cytochrome P450 (CYP) enzymes play",
+      "page": 59
+    },
+    {
+      "document": "g1.pdf",
+      "refined_text": "inactive . Subsequently, PLANET400 extends the multi -task paradigm by jointly training three tasks: \nbinding affinity prediction, ligand conformation prediction, and protein -ligand distance matrix \nprediction. To mitigate the negative impact of decoy conformations, PLANET restricts negative \nsampl",
+      "page": 110
+    },
+    {
+      "document": "g2.pdf",
+      "refined_text": "them by their data characteristics, as summarized in Table 2. Four primary categories capture the scope\nof these resources: Comprehensive Databases, Clinical Databases, Structural Information Databases, and\nMolecular Interaction Databases. Given the breadth and interrelated nature of the latter, we ",
+      "page": 16
+    },
+    {
+      "document": "g3.pdf",
+      "refined_text": "0 100 200 300\nepoch0.20.40.60.81.0MSE values(A) MSE in GEN progress\ntraining MSE\nvalidation MSE\n0 100 200 300\nepoch0.700.750.800.85CI values(B) CI in GEN progress\ntraining CI\nvalidation CI\n0 100 200 300\nepoch0.20.40.6MSE values(C) MSE in HGC-GCN progress\ntraining MSE\nvalidation MSE\n0 100 200 300\nepo",
+      "page": 18
+    },
+    {
+      "document": "g3.pdf",
+      "refined_text": "0 100 200 300\nepoch0.20.40.60.81.0MSE values(A) MSE in GEN progress\ntraining MSE\nvalidation MSE\n0 100 200 300\nepoch0.700.750.800.85CI values(B) CI in GEN progress\ntraining CI\nvalidation CI\n0 100 200 300\nepoch0.20.40.6MSE values(C) MSE in HGC-GCN progress\ntraining MSE\nvalidation MSE\n0 100 200 300\nepo",
+      "page": 18
+    },
+    {
+      "document": "g1.pdf",
+      "refined_text": "redundancy by ensuring that each intermediate appears only once in the graph, improving search \nefficiency. Furthermore, RetroGraph uses a GNN to estimate the success probability of each node as a \nproxy for synthetic feasibility. The framework also supports batch retrosynthesis, enabling the \nident",
+      "page": 173
+    },
+    {
+      "document": "g1.pdf",
+      "refined_text": "where \ud835\udc66\u0303 is the consensus prediction, \ud835\udf0e\ud835\udc522 captures epistemic uncertainty, and \ud835\udf0e\ud835\udc4e2 reflects aleatoric \nuncertainty. A major limitation of MC -dropout is the sensitivity to the dropout rate \ud835\udc5d, which is a \nhyperparameter and should be carefully tuned. To address this, Concrete Dropout270 uses gradient ",
+      "page": 72
+    },
+    {
+      "document": "g1.pdf",
+      "refined_text": "2.4 Graph Generative Models and Probability Learning  \nDeep learning tasks are broadly categorized into two categories: predictive tasks, which aim to infer \noutputs given inputs, and generative tasks, which focus on modeling the underlying data distribution to \ngenerate new, plausible samples157. C",
+      "page": 43
+    },
+    {
+      "document": "g3.pdf",
+      "refined_text": "developing and using computational models to learn from data and to also generate more\nnew data. Machine learning, particularly deep learning, is becoming progressively more\nimportant in operations that deal with large amounts of data, such as drug discovery.\nDrug discovery is the work carried out t",
+      "page": 2
+    },
+    {
+      "document": "g1.pdf",
+      "refined_text": "(398) Wang, Z.; Wang, S.; Li, Y.; Guo, J.; Wei, Y.; Mu, Y.; Zheng, L.; Li, W. A new paradigm for applying \ndeep learning to protein \u2013ligand interaction prediction. Brief. Bioinform. 2024 , 25 (3), bbae145.  \n(399) Scantlebury, J.; Vost, L.; Carbery, A.; Hadfield, T. E.; Turnbull, O. M.; Brown, N.; \n",
+      "page": 204
+    },
+    {
+      "document": "g1.pdf",
+      "refined_text": "(398) Wang, Z.; Wang, S.; Li, Y.; Guo, J.; Wei, Y.; Mu, Y.; Zheng, L.; Li, W. A new paradigm for applying \ndeep learning to protein \u2013ligand interaction prediction. Brief. Bioinform. 2024 , 25 (3), bbae145.  \n(399) Scantlebury, J.; Vost, L.; Carbery, A.; Hadfield, T. E.; Turnbull, O. M.; Brown, N.; \n",
+      "page": 204
+    },
+    {
+      "document": "g1.pdf",
+      "refined_text": "(494) Nicolaou, C. A.; Apostolakis, J.; Pattichis, C. S. De novo drug design using multiobjective \nevolutionary graphs. J. Chem. Inf. Model. 2009 , 49 (2), 295 -307. \n(495) Jensen, J. H. A graph -based genetic algorithm and generative model/Monte Carlo tree search for \nthe exploration of chemical sp",
+      "page": 209
+    },
+    {
+      "document": "g3.pdf",
+      "refined_text": "Figure 3 Schematic depiction of hypergraph convolution for a hypergraph of seven nodes and three\nhyper-edges.\nFull-size\n DOI: 10.7717/peerj.13163/fig-3\nDifferently, de novo generation basically aims at generating novel molecules. Leading\nin adopting GNNs for de novo generation, De Cao & Kipf (2018) ",
+      "page": 8
+    },
+    {
+      "document": "g3.pdf",
+      "refined_text": "The proposed the hypergraph convolution is demonstrated as:\nx(lC1)\niD\u001b0\n@nX\njD1mX\niD1HieHjeWeex.l/\njP1\nA (12)\nwhere x(l)\niis the embedding representation of node viin the l-th layer,\u001bis a non-linear\nfunction which can be, for example, eLU ( Clevert, Unterthiner & Hochreiter, 2016 ) and\nLeakyReLU ( M",
+      "page": 7
+    },
+    {
+      "document": "g3.pdf",
+      "refined_text": "formed by firstly investigating and collecting the drugs which are used to treat allergic\nreactions, which are referred as `allergy drugs' in this research, and their respective targets;\nthe list of allergy drugs and their targets is achieved from DrugBank; secondly, finding\nand aggregating the liga",
+      "page": 13
+    },
+    {
+      "document": "g1.pdf",
+      "refined_text": " \nAcknowledgements  \nThis work was financially supported by National Key R&D Program of China ( 2024YFA1300051 ), \nNational Science Foundation of China ( 92370130 , 22220102001 ). \n \nReference  \n(1) Dickson, M.; Gagnon, J. P. The cost of new drug discovery and development. Discov. Med. 2009 , 4 \n(22",
+      "page": 182
+    },
+    {
+      "document": "g1.pdf",
+      "refined_text": "construct a linear path  (e.g., a constant velocity flow ) between two distributions. Specifically, given a \nsample pair \ud835\udc650 and \ud835\udc651, the transport path is defined as:  \n\ud835\udc65\ud835\udc61=\ud835\udc61\ud835\udc651+(1\u2212\ud835\udc61)\ud835\udc650,\ud835\udc51\ud835\udc65\n\ud835\udc51\ud835\udc61=\ud835\udc651\u2212\ud835\udc650 \nThis linear evolution corresponds to an optimal transport path under the assumption of uniform \nvelocity",
+      "page": 50
+    },
+    {
+      "document": "g3.pdf",
+      "refined_text": "0 100 200 300\nepoch10203040MSE values(A) MSE in GEN progress\ntraining MSE\nvalidation MSE\n0 100 200 300\nepoch0.450.500.550.600.650.70CI values(B) CI in GEN progress\ntraining CI\nvalidation CI\n0 100 200 300\nepoch204060MSE values(C) MSE in HGC-GCN progress\ntraining MSE\nvalidation MSE\n0 100 200 300\nepoch",
+      "page": 19
+    },
+    {
+      "document": "g3.pdf",
+      "refined_text": "0 100 200 300\nepoch10203040MSE values(A) MSE in GEN progress\ntraining MSE\nvalidation MSE\n0 100 200 300\nepoch0.450.500.550.600.650.70CI values(B) CI in GEN progress\ntraining CI\nvalidation CI\n0 100 200 300\nepoch204060MSE values(C) MSE in HGC-GCN progress\ntraining MSE\nvalidation MSE\n0 100 200 300\nepoch",
+      "page": 19
+    },
+    {
+      "document": "g1.pdf",
+      "refined_text": "DQN176 Use deep learning to approximate tabular Q  \nOthers  Actor -Critic177 Combined policy and value function  \nIL178 Behavior cloning, expert trajectory supervision  \nIRL179 Reward function inference  \nSearch -based  MCTS180 Tree-based planning, rollout simulation  \n \n2.5.1 Policy Gradient: Finet",
+      "page": 51
+    },
+    {
+      "document": "g1.pdf",
+      "refined_text": " \nFigure 10.  A) Comparison between substructure and feature attribution. B,C) Two examples of explainable GNN \nmethods: mask -based methods, which learn masks over molecular graphs to identify important substructures ; search -\nbased methods, which iteratively evaluate candidate substructures to se",
+      "page": 75
+    },
+    {
+      "document": "g1.pdf",
+      "refined_text": " \nFigure 10.  A) Comparison between substructure and feature attribution. B,C) Two examples of explainable GNN \nmethods: mask -based methods, which learn masks over molecular graphs to identify important substructures ; search -\nbased methods, which iteratively evaluate candidate substructures to se",
+      "page": 75
+    },
+    {
+      "document": "g1.pdf",
+      "refined_text": "2.3.2.3 A Unified Framework for Graph Transformers  \nIn the rapidly evolving landscape of Graph Transformer models, a recurring observation is that while the \ncore mechanism for attention computation remains largely unchanged, most innovations lie in how \ngraph inductive biases are incorporated into",
+      "page": 35
+    },
+    {
+      "document": "g3.pdf",
+      "refined_text": "random forest, logistic regression, and support vector machine. In their model, GNN was\napplied to learn the ligands' molecular fingerprints, and CNN was for proteins learning.\nLastly, binding affinity prediction is quite comparable to ligand-protein interaction\nprediction. This, however, is a regre",
+      "page": 9
+    },
+    {
+      "document": "g1.pdf",
+      "refined_text": "7.2.1.1.2 Semi -Template -based Methods  \nThe development of GNN -based single -step retrosynthesis models has given rise to a class of semi -\ntemplate methods, which decompose the modeling process into two stages:  \n\ud835\udc5d(\ud835\udc45\u2223\ud835\udc43)=\ud835\udc5d(\ud835\udc45\u2223\ud835\udc46)\u22c5\ud835\udc5d(\ud835\udc46\u2223\ud835\udc43) \nHere, the model first predicts an intermediate synthon \ud835\udc46, and",
+      "page": 170
+    },
+    {
+      "document": "g2.pdf",
+      "refined_text": "set of challenges in drug discovery. Recent advances in GNN-based molecule generation have enabled the\ncreation of molecules specifically tailored for target proteins. These models employ GNN blocks to maintain\nstructural consistency\u2014ensuring robustness against flips, shifts, and rotations\u2014while pro",
+      "page": 7
+    },
+    {
+      "document": "g2.pdf",
+      "refined_text": "set of challenges in drug discovery. Recent advances in GNN-based molecule generation have enabled the\ncreation of molecules specifically tailored for target proteins. These models employ GNN blocks to maintain\nstructural consistency\u2014ensuring robustness against flips, shifts, and rotations\u2014while pro",
+      "page": 7
+    },
+    {
+      "document": "g1.pdf",
+      "refined_text": "2.3.3.1 Generative Pre -training  \nThe central idea of generative pre -training is to model the underlying distribution \ud835\udc5d(\ud835\udc3a) of real -world \nmolecular graphs. Inspired by the notion that \u201cwhat I cannot create, I do not understand ,\u201d generative \nmethods encourage models to construct meaningful repres",
+      "page": 38
+    },
+    {
+      "document": "g1.pdf",
+      "refined_text": "3.2 Uncertainty Quantification in GNN Property Prediction: Control Risk  \nIn real -world scenarios, molecular property prediction often faces inherent data noise and limited \nchemical space coverage caused by  data sparsity. As a result, models are confronted with two key \nlimitations : generalizati",
+      "page": 70
+    },
+    {
+      "document": "g1.pdf",
+      "refined_text": "underexplored, with only a few works emerging in recent years, such as CoDrug280 and CF-GNN281. Some \nmethods, while not explicitly refer encing conformal prediction, have adopted its core ideas. For example, \nthe pLDDT (predicted Local Distance Difference Test) scoring system used in AlphaFold254 t",
+      "page": 74
+    },
+    {
+      "document": "g1.pdf",
+      "refined_text": "Building on GNNExplainer, PGExplainer290 points out that the output of \ud835\udf0e(\ud835\udc40\ud835\udc38) lies in the \ncontinuous range [0,1], forming a soft mask that still requires post -processing (e.g., thresholding) to \nobtain a binary hard mask. To overcome this limitation, PGExplainer employs the Gumbel -Softmax311 \ntric",
+      "page": 79
+    },
+    {
+      "document": "g1.pdf",
+      "refined_text": "Independence Criterion (HSIC) to quantify nonlinear dependence between input features and model \npredictions, and employs Lasso regression for sparsity, retaining only the most informative features to \nreduce overfitting. GraphLIME adapts this idea by replacing the original feature space with the k-",
+      "page": 81
+    },
+    {
+      "document": "g1.pdf",
+      "refined_text": "DEKOIS2.0334 81 targets, each with 30 actives and 1200 decoys for screening  \nDUD -E335 102 targets, each with varying actives and 50x decoys.  \nLIT-PCBA336 15 targets, with 10030 actives and 2m decoys in total (from PubChem)  \nMerck FEP337 8 targets, 264 actives, with FEP+ energy computation (high ",
+      "page": 87
+    },
+    {
+      "document": "g1.pdf",
+      "refined_text": "model exposure to diverse chemical and structural patterns. Moreover, given that PDBBind contains \npredominantly positive ( active ) samples, incorporating a larger number of negative ( inactive ) examples \ncan help models better differentiate between active and inactive molecular states. Therefore,",
+      "page": 112
+    },
+    {
+      "document": "g1.pdf",
+      "refined_text": "Recent efforts have also explored applying diffusion models to one -shot graph generation. \nArchitecturally analogous to flow models, these methods replace the invertible transformations in flows \nwith diffusion -based transformations. For instance, GDSS420 leverages continuous -time stochastic \ndif",
+      "page": 116
+    },
+    {
+      "document": "g1.pdf",
+      "refined_text": "Recent efforts have also explored applying diffusion models to one -shot graph generation. \nArchitecturally analogous to flow models, these methods replace the invertible transformations in flows \nwith diffusion -based transformations. For instance, GDSS420 leverages continuous -time stochastic \ndif",
+      "page": 116
+    },
+    {
+      "document": "g1.pdf",
+      "refined_text": "     One of the early representatives of autoregressive molecular generation is MolecularRNN422, which \nadopts the \u201catom -then-bond \u201d decomposition. During generation, the model computes node features \nthrough a NodeRNN, followed by atom type prediction via a feedforward layer:  \n\u210e\ud835\udc56\ud835\udc5b\ud835\udc5c\ud835\udc51\ud835\udc52=NodeRNN (\u210e\ud835\udc56\u2212",
+      "page": 117
+    },
+    {
+      "document": "g1.pdf",
+      "refined_text": "5.1.2 Fragment -wise Molecular Generation  \nAlthough atom -wise molecular graph generation models have achieved substantial progress, c  sequentially \nadding atoms and bonds often leads to generation quality issues and poor synthetic accessibility. These \nissues stem from the fact that even subtle e",
+      "page": 118
+    },
+    {
+      "document": "g1.pdf",
+      "refined_text": "is given and seeks to predict a physically plausible 3D arrangement of atoms, i.e., modeling \ud835\udc5d(\ud835\udc45\u2223\ud835\udc3a). As \none of the earliest applications of geometric deep learning in chemistry, conformation generation has \nbecome a cornerstone for many subsequent 3D molecular modeling approaches. Since atom types ",
+      "page": 121
+    },
+    {
+      "document": "g1.pdf",
+      "refined_text": "5.2.1.2 Direct Cartesian Coordinate Generation  \nTo avoid the potential loss of geometric fidelity associated with distance -based reconstruction, several \nmethods directly generate 3D coordinates, i.e., they learn \ud835\udc5d(\ud835\udc45\u2223\ud835\udc3a) under SE(3) -equivariant constraints. \nDMCG439, for example, introduces physic",
+      "page": 122
+    },
+    {
+      "document": "g1.pdf",
+      "refined_text": "5.2.1.2 Direct Cartesian Coordinate Generation  \nTo avoid the potential loss of geometric fidelity associated with distance -based reconstruction, several \nmethods directly generate 3D coordinates, i.e., they learn \ud835\udc5d(\ud835\udc45\u2223\ud835\udc3a) under SE(3) -equivariant constraints. \nDMCG439, for example, introduces physic",
+      "page": 122
+    },
+    {
+      "document": "g2.pdf",
+      "refined_text": "11 Appendix\nIn Table 3 we provide the URLs of the approaches we summarized in Table 1, however, some of approaches\ndo not offer URLs.\nTable 3: There are the URLs for the codes of methods.\nMethods URLs\nConfV AE [6] https://github.com/MinkaiXu/ConfVAE-ICML21\nCGIB [28] https://github.com/Namkyeong/CGIB",
+      "page": 32
+    },
+    {
+      "document": "g3.pdf",
+      "refined_text": "Table 4 The average r2scores of models' training on the Davis dataset.\nMethod Model Drugs rep.\n(learning method)aTargets rep.\n(learning method)ar2\nm\nSimBoost PubChem Sim S-W 0.644\nDeepDTA SMILES (CNN) Target sequence (CNN) 0.630\nGEN Graph (GEN) Target sequence (CNN) 0.653DeepNC\nHGC_GCN Graph (HGC-GC",
+      "page": 20
+    },
+    {
+      "document": "g3.pdf",
+      "refined_text": "Table 4 The average r2scores of models' training on the Davis dataset.\nMethod Model Drugs rep.\n(learning method)aTargets rep.\n(learning method)ar2\nm\nSimBoost PubChem Sim S-W 0.644\nDeepDTA SMILES (CNN) Target sequence (CNN) 0.630\nGEN Graph (GEN) Target sequence (CNN) 0.653DeepNC\nHGC_GCN Graph (HGC-GC",
+      "page": 20
+    },
+    {
+      "document": "g3.pdf",
+      "refined_text": "Table 4 The average r2scores of models' training on the Davis dataset.\nMethod Model Drugs rep.\n(learning method)aTargets rep.\n(learning method)ar2\nm\nSimBoost PubChem Sim S-W 0.644\nDeepDTA SMILES (CNN) Target sequence (CNN) 0.630\nGEN Graph (GEN) Target sequence (CNN) 0.653DeepNC\nHGC_GCN Graph (HGC-GC",
+      "page": 20
+    },
+    {
+      "document": "g3.pdf",
+      "refined_text": "Table 7 MSE and CI values of models' training on the Allergy dataset.\nMethod Model Drugs rep.\n(learning method)aTargets rep.\n(learning method)aMSE CI\nGCN Graph (GCN) Target sequence (CNN) 9.312 0.693\nGAT Graph (GAT) Target sequence (CNN) 11.200 0.661\nGIN Graph (GIN) Target sequence (CNN) 12.158 0.65",
+      "page": 21
+    }
+  ]
+}
